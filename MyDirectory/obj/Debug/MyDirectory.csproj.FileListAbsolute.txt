@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\bin\Debug\MyDirectory.exe.config
+c:\users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\bin\Debug\MyDirectory.exe
+c:\users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\bin\Debug\MyDirectory.pdb
+c:\users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\obj\Debug\MyDirectory.Main.resources
+c:\users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\obj\Debug\MyDirectory.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\obj\Debug\MyDirectory.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\obj\Debug\MyDirectory.exe
+c:\users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\obj\Debug\MyDirectory.pdb
+C:\Users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\obj\Debug\MyDirectory.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\bin\Debug\MyDirectory.exe.manifest
+C:\Users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\bin\Debug\MyDirectory.application
+C:\Users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\obj\Debug\MyDirectory.TrustInfo.xml
+C:\Users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\obj\Debug\MyDirectory.exe.manifest
+C:\Users\user\documents\visual studio 2013\Projects\MyDirectory\MyDirectory\obj\Debug\MyDirectory.application
